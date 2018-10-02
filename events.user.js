@@ -12,13 +12,13 @@
 'use strict';
 
 const stripesGradient = (colors, width, angle) => {
-  let gradient = `repeating-linear-gradient( ${angle}deg,`;
+  let gradient = `linear-gradient( to right,`;
   let pos = 0;
 
   colors.forEach(color => {
-    gradient += color + " " + pos + "px,";
-    pos += width;
-    gradient += color + " " + pos + "px,";
+    gradient += color + ",";
+    // pos += width;
+    // gradient += color + ",";
   });
   gradient = gradient.slice(0, -1);
   gradient += ")";
