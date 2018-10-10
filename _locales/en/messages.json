@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "Gradient Event Merge for Google Calendar™",
+    "message": "Gradient Merge for Google Calendar™ Events",
     "description": "The title of the application, displayed in the web store."
   },
   "appDesc": {
-    "message": "Chrome extension that visually merges the same event on multiple Google Calendars into one event.",
+    "message": "take your duplicate Google Calendar events and merge them into one event.",
     "description": "The description of the application, displayed in the web store."
   }
 }
