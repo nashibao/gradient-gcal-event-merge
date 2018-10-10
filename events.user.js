@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Event Merge for Google Calendar™ (by @imightbeAmy)
-// @namespace   gcal-multical-event-merge
+// @name        Gradient Event Merge for Google Calendar™ (by @imightbeAmy and @karjna)
+// @namespace   gradient-gcal-multical-event-merge
 // @include     https://www.google.com/calendar/*
 // @include     http://www.google.com/calendar/*
 // @include     https://calendar.google.com/*
